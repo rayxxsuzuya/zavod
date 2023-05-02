@@ -1,0 +1,7 @@
+<svg width="13" height="26" viewBox="0 0 13 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.75" y="0.75" width="11.5" height="24.5" rx="5.75" stroke="#4B89E0" stroke-width="1.5"/>
+<g>
+	<circle cx="6.5" cy="7.5" r="1.5" fill="#4B89E0"/>
+	<animateMotion  accumulate="none" additive="replace" calcMode="paced" dur="2s" fill="remove" path="M 0 0 V 10 Z" repeatCount="indefinite" restart="always"></animateMotion>
+</g>
+</svg>
